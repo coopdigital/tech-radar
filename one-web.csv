@@ -16,7 +16,6 @@ nunjucks,Languages & Frameworks,Hold,FALSE,"Javascript templating language, insp
 scss/sass,Languages & Frameworks,Hold,FALSE,"Stylesheet extension language"
 postCSS,Languages & Frameworks,Adopt,FALSE,"Stylesheet extension language"
 shell/bash scripts (build scripts),Languages & Frameworks,Adopt,FALSE,"Used to drive the build process for application and infrastructure"
-
 ignore,Tools,hold,FALSE,"nothing"
 ignore2,Platforms,hold,FALSE,"nothing"
 ignore3,Techniques,hold,FALSE,"nothing"
