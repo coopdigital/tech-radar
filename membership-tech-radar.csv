@@ -1,8 +1,9 @@
 name,quadrant,ring,isNew,description
-jQuery,Languages & Frameworks,Hold,FALSE,Front-end javascript multi-tool
-Jest,Languages & Frameworks,Adopt,FALSE,"Jest has become the defacto tool for JS testing, integrates well with React and other modern thingies"
-mocha & chai,Languages & Frameworks,Hold,FALSE,Jest is preferred instead now
+Jest,Languages & Frameworks,Adopt,FALSE,"Jest has become the defacto tool for JS testing, 
 Wiresham,Languages & Frameworks,Trial,TRUE,For mocking tcp 
+jQuery,Languages & Frameworks,Hold,FALSE,Front-end javascript multi-tool
+integrates well with React and other modern thingies"
+mocha & chai,Languages & Frameworks,Hold,FALSE,Jest is preferred instead now
 event driven systems,Techniques,Adopt,FALSE,event driven architectures blurb here
 serverless side rendered websites,Techniques,Adopt,FALSE,Reeact SSR in a lambda fronted by API Gateway
 kotlin,Languages & Frameworks,Trial,TRUE,functional-flavoured JVM language that favours immutability and avoids nulls
