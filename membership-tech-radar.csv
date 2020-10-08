@@ -2,20 +2,20 @@ name,quadrant,ring,isNew,description
 Jest,Languages & Frameworks,Adopt,FALSE,"Jest has become the defacto tool for JS testing"
 event driven systems,Techniques,Adopt,FALSE,"event driven architectures blurb here"
 serverless side rendered websites,Techniques,Adopt,FALSE,"React SSR in a lambda fronted by API Gateway"
-Wiresham,Languages & Frameworks,Trial,TRUE,For mocking tcp 
-kotlin,Languages & Frameworks,Trial,TRUE,functional-flavoured JVM language that favours immutability and avoids nulls
-jQuery,Languages & Frameworks,Hold,FALSE,Front-end javascript multi-tool
+Wiresham,Languages & Frameworks,Trial,TRUE,"For mocking tcp"
+kotlin,Languages & Frameworks,Trial,TRUE,"functional-flavoured JVM language that favours immutability and avoids nulls"
+jQuery,Languages & Frameworks,Hold,FALSE,"Front-end javascript multi-tool
 integrates well with React and other modern thingies"
-mocha & chai,Languages & Frameworks,Hold,FALSE,Jest is preferred instead now
-groovy,Languages & Frameworks,Adopt,FALSE,we use groovy because that is what jenkinsfiles are written in but we probably wouldn't write an application in it
-babel,Tools,Adopt,FALSE,we target 12 runtime because that is supported by AWS Lambda. Babel is the defacto solution for transpiling JS
-python,Languages & Frameworks,Adopt,FALSE,python used for infrastructure tasks and some scripting
+mocha & chai,Languages & Frameworks,Hold,FALSE,"Jest is preferred instead now"
+groovy,Languages & Frameworks,Adopt,FALSE,"we use groovy because that is what jenkinsfiles are written in but we probably wouldn't write an application in it"
+babel,Tools,Adopt,FALSE,"we target Node 12 runtime because that is supported by AWS Lambda. Babel is the defacto solution for transpiling JS"
+python,Languages & Frameworks,Adopt,FALSE,"python used for infrastructure tasks and some scripting"
 React,Languages & Frameworks,Adopt,FALSE,
 TypeScript,Languages & Frameworks,Trial,TRUE,
 NodeJS,Languages & Frameworks,Adopt,FALSE,"version 12 needed for AWS, but babel can transpile between versions"
-java 8,Languages & Frameworks,Hold,FALSE,version 8 of java
-Java 11,Languages & Frameworks,Adopt,FALSE,version 11 of java
-DropWizard,Languages & Frameworks,Hold,FALSE,Spring Boot is preferred now
+java 8,Languages & Frameworks,Hold,FALSE,"version 8 of java"
+Java 11,Languages & Frameworks,Adopt,FALSE,"version 11 of java"
+DropWizard,Languages & Frameworks,Hold,FALSE,"Spring Boot is preferred now"
 Spring Boot,Languages & Frameworks,Trial,TRUE,
 Bash,Languages & Frameworks,Hold,FALSE,
 Gradle,Languages & Frameworks,Adopt,TRUE,
@@ -25,20 +25,20 @@ AWS DynamoDB,Tools,Adopt,FALSE,
 AWS SQS,Tools,Adopt,FALSE,
 AWS SES,Tools,Adopt,FALSE,
 AWS RDS,Tools,Adopt,FALSE,
-AWS SSM,Tools,Adopt,FALSE,instead of SSH
+AWS SSM,Tools,Adopt,FALSE,"instead of SSH"
 AWS CodeArtifact,Tools,Trial,TRUE,
 AWS EKS,Tools,Hold,TRUE,
-AWS Batch,Tools,Trial,TRUE,Looking to see what other batch jobs can use this
+AWS Batch,Tools,Trial,TRUE,"Looking to see what other batch jobs can use this"
 AWS XRay,Tools,Adopt,TRUE,
 AWS S3,Tools,Adopt,FALSE,
-Gigya,Tools,Hold,TRUE,Gigya has had very poor performance and its JS SDK is blocked by ad trackers
+Gigya,Tools,Hold,TRUE,"Gigya has had very poor performance and its JS SDK is blocked by ad trackers"
 AWS Cognito,Tools,Trial,TRUE,
 AWS KMS,Tools,Adopt,FALSE,
 AWS Parameter Store,Tools,Adopt,FALSE,
 terraform,Tools,Adopt,FALSE,
-mocha,Languages & Frameworks,Hold,TRUE,mocha was the defacto tool of choice for JS but has been superceded by Jest
-Packer,Tools,Adopt,FALSE,packer allows us to build machine images that need little or no further setup reducing the start up time for new servers
-Puppet,Tools,Hold,FALSE,puppet used to be used to run on live servers in production. we shouldn't be changing prod in this way. it also meant it took a long time for servers to start meaning that our ability to scale was lower
-gulp,Tools,Hold,TRUE,gulp was the defacto build tool for JS and was used in a number of applications but shouldn't be used in any new applications
+mocha,Languages & Frameworks,Hold,TRUE,"mocha was the defacto tool of choice for JS but has been superceded by Jest"
+Packer,Tools,Adopt,FALSE,"packer allows us to build machine images that need little or no further setup reducing the start up time for new servers"
+Puppet,Tools,Hold,FALSE,"puppet used to be used to run on live servers in production. we shouldn't be changing prod in this way. it also meant it took a long time for servers to start meaning that our ability to scale was lower"
+gulp,Tools,Hold,TRUE,"gulp was the defacto build tool for JS and was used in a number of applications but shouldn't be used in any new applications"
 webpack,Tools,Adopt,TRUE,
 ignore,Unused,Hold,FALSE,
