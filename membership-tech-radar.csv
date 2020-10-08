@@ -1,12 +1,12 @@
 name,quadrant,ring,isNew,description
-Jest,Languages & Frameworks,Adopt,FALSE,"Jest has become the defacto tool for JS testing, 
+Jest,Languages & Frameworks,Adopt,FALSE,"Jest has become the defacto tool for JS testing"
+event driven systems,Techniques,Adopt,FALSE,"event driven architectures blurb here"
+serverless side rendered websites,Techniques,Adopt,FALSE,"React SSR in a lambda fronted by API Gateway"
 Wiresham,Languages & Frameworks,Trial,TRUE,For mocking tcp 
+kotlin,Languages & Frameworks,Trial,TRUE,functional-flavoured JVM language that favours immutability and avoids nulls
 jQuery,Languages & Frameworks,Hold,FALSE,Front-end javascript multi-tool
 integrates well with React and other modern thingies"
 mocha & chai,Languages & Frameworks,Hold,FALSE,Jest is preferred instead now
-event driven systems,Techniques,Adopt,FALSE,event driven architectures blurb here
-serverless side rendered websites,Techniques,Adopt,FALSE,Reeact SSR in a lambda fronted by API Gateway
-kotlin,Languages & Frameworks,Trial,TRUE,functional-flavoured JVM language that favours immutability and avoids nulls
 groovy,Languages & Frameworks,Adopt,FALSE,we use groovy because that is what jenkinsfiles are written in but we probably wouldn't write an application in it
 babel,Tools,Adopt,FALSE,we target 12 runtime because that is supported by AWS Lambda. Babel is the defacto solution for transpiling JS
 python,Languages & Frameworks,Adopt,FALSE,python used for infrastructure tasks and some scripting
