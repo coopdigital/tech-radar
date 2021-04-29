@@ -6,4 +6,5 @@ Online Wardley Maps,Tools, adopt,true,"Diagrams-as-code for Wardley Maps.  Clear
 Miro,Tools,adopt,false,"Tool of choice for remote collaborating on diagraming and/or general remote whiteboarding" 
 Diagrams as Code,Techniques,adopt,false,"Storing diagrams in (hopefully) human readable form in the source control with the code.  Encourages more regular updating of diagrams and opens up the potential to capture a combined history of the code and documentation"
 Empty,Platforms,hold,false,"Nothing in this section yet"
-Empty,Languages & Frameworks,hold,false,"Nothing in this section yet"
+React,Languages & Frameworks,adopt,false,"React is used in the majority of teams who need a framework for Single Page Applications (SPA).  It is still reasonable to build SAP without a framework."
+Vue.js,Languages & Frameworks,hold,false,"We have used vue.js historically in some teams at the co-op though we cannot determine a different requirement that vue.js fulfills.  Therefore with react being the more commonly used framework we have decided to move vue.js into hold."
